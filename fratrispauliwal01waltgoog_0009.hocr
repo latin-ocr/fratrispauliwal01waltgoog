@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fratrispauliwal01waltgoog_0009.png"; bbox 0 0 3062 4938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 556 1919 1042 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 556 1919 1042 1970">
+     <span class='ocr_line' id='line_1_1' title="bbox 556 1919 1042 1970; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 556 1919 638 1966; x_wconf 71' lang='lat' dir='ltr'>ALIAE</span> <span class='ocrx_word' id='word_1_2' title='bbox 656 1921 781 1967; x_wconf 71' lang='lat' dir='ltr'><strong>lfficflffl</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 800 1920 1042 1970; x_wconf 76' lang='lat' dir='ltr'><strong>VORBEHALTEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 473 4371 1123 4421">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 473 4371 1123 4421">
+     <span class='ocr_line' id='line_1_2' title="bbox 473 4371 1123 4421; baseline 0.006 -4"><span class='ocrx_word' id='word_1_4' title='bbox 473 4377 576 4420; x_wconf 77' lang='lat' dir='ltr'>DBUOK</span> <span class='ocrx_word' id='word_1_5' title='bbox 594 4378 656 4420; x_wconf 78' lang='lat' dir='ltr'>VON</span> <span class='ocrx_word' id='word_1_6' title='bbox 673 4379 704 4421; x_wconf 83' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_7' title='bbox 725 4377 824 4420; x_wconf 71' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_8' title='bbox 843 4379 888 4421; x_wconf 76' lang='lat' dir='ltr'>Jn.</span> <span class='ocrx_word' id='word_1_9' title='bbox 906 4378 940 4418; x_wconf 76' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 959 4371 1123 4421; x_wconf 75' lang='lat' dir='ltr'>TUBINGEN·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1536 4938">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1536 4938">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1536 4938; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1536 4938; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
